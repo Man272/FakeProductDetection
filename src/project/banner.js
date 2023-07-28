@@ -1,6 +1,6 @@
 import React from 'react';
 import './banner.css';
-import BG1 from '/Users/mr.man27/Project/my-project-1/src/img/BCBG.png'
+import BG1 from '/Users/mr.man27/Project/my-project-1/src/img/block.png'
 
 const banner = () => {
   return (

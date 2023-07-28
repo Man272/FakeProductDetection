@@ -1,12 +1,12 @@
 import React from 'react';
 import './page2.css';
-import img1 from '/Users/mr.man27/Project/my-project-1/src/img/Ganache.png'
-import img2 from '/Users/mr.man27/Project/my-project-1/src/img/MetaMask.png'
-import img3 from '/Users/mr.man27/Project/my-project-1/src/img/Python.png'
-import img4 from '/Users/mr.man27/Project/my-project-1/src/img/Reactjs.png'
-import img5 from '/Users/mr.man27/Project/my-project-1/src/img/Solidity.png'
-import img6 from '/Users/mr.man27/Project/my-project-1/src/img/Visual Studio Code.png'
-import img7 from '/Users/mr.man27/Project/my-project-1/src/img/System.png'
+import img1 from '../img/ganache.png'
+import img2 from '../img/MetaMask.png'
+import img3 from '../img/Python.png'
+import img4 from '../img/Reactjs.png'
+import img5 from '../img/Solidity.png'
+import img6 from '../img/VisualStudioCode.png';
+import img7 from '../img/System.png'
 
 const Page2 = () => {
   return (

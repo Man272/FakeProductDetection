@@ -49,6 +49,21 @@
   border-radius: 25px;
 }
 
-.react-simple-image-slider__viewport {
-  border-radius: 25px;
+.slider-container {
+  max-width: 900px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.slider-container img {
+  width: 800px;
+  height: auto;
+  margin-top: 20px;
+  border-radius: 24px;
+}
+
+button {
+  margin: 10px;
+  padding: 5px 16px;
+  font-size: 16px;
 }

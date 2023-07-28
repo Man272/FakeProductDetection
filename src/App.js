@@ -1,6 +1,6 @@
 import './App.css';
 import { Helmet } from 'react-helmet';
-import BCBG from './img/BCBG.png';
+import BCBG from './img/block.png';
 import Page1 from './project/page1';
 import Page2 from './project/page2';
 import Page3 from './project/page3';
