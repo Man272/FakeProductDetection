@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 .page1-container {
     margin-top: 15px;
     height: 380px;
@@ -7,12 +9,17 @@
     display: flex;
   }
   
-.btn {
+.bttn {
     height: 45px;
     width: 350px;
     border-radius: 15px;
     border: #00000000;
-    font-size: 15px;
+    background-color: #03045e;
+}
+
+.bttn span {
+  font-size: 15px;
+  color: #8EC5FC;
 }
 
   .line1 {
@@ -41,7 +48,8 @@
     justify-content: center;
     height: 350px;
     width: 400px;
-    background-color: #90CAF0;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     color: black;
     border-radius: 25px;
   }
@@ -51,6 +59,7 @@
     font-size: 32px;
     font-weight: bold;
     margin: 10px;
+    font-family: 'Bebas Neue', sans-serif;
     text-align: center;
   }
   
@@ -71,7 +80,8 @@
     justify-content: center;
     height: 350px;
     width: 1000px;
-    background-color: #90CAF0;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     color: black;
     border-radius: 25px;
   }
@@ -79,7 +89,8 @@
   .title2 h1 {
     font-size: 32px;
     font-weight: bold;
-    margin-left: 15px;
+    margin-left: 17px;
+    font-family: 'Bebas Neue', sans-serif;
     text-align: center;
   }
   

@@ -1,10 +1,10 @@
 .page4-container{
-    height: 50vh;
+    height: 420px;
     margin-top: 17px;
 }
 
 .line7 {
-    height: 50vh;
+    height: 400px;
     margin-left: 35px;
     margin-right: 35px;
 }
@@ -16,7 +16,8 @@
     align-items: center;
     justify-content: center;
     height: 350px;
-    background-color: #90e0ef;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     color: black;
     border-radius: 25px;
   }

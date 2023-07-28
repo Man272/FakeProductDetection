@@ -4,6 +4,7 @@
   margin-left: 25px;
   margin-right: 25px;
   margin-bottom: 17px;
+  margin-top: 17px;
   display: flex;
 }
 
@@ -29,7 +30,8 @@
   justify-content: center;
   height: 600px;
   width: 400px;
-  background-color: #90e0ef;
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
   color: black;
   border-radius: 25px;
 }
@@ -41,7 +43,8 @@
   justify-content: center;
   height: 600px;
   width: 1000px;
-  background-color: #90e0ef;
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
   color: black;
   border-radius: 25px;
 }

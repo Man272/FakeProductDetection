@@ -7,11 +7,8 @@ const Page1 = () => {
         <div className='title'>
           <h1>Fake Product Detection Using Blockchain Technology</h1>
           <p>CSE 345 BLOCKCHAIN TECHNOLOGIES</p>
-          <button className='btn-1'>
-            Report
-          </button>
-          <button className='btn-1'>
-            Demo Link
+          <button className='bttn'>
+            <span>Demo link</span>
           </button>
         </div>
       </div>
