@@ -1,9 +1,9 @@
 // Import React with the correct version
 import React, { useState } from 'react';
 import './page3.css';
-import img1 from '/Users/mr.man27/Project/my-project-1/src/img/img1.png';
-import img2 from '/Users/mr.man27/Project/my-project-1/src/img/img2.png';
-import img3 from '/Users/mr.man27/Project/my-project-1/src/img/img3.png';
+import img1 from '../assets/img1.png';
+import img2 from '../assets/img2.png';
+import img3 from '../assets/img3.png';
 
 const images = [
   img1,
